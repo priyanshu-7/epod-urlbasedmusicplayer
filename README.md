@@ -1,5 +1,5 @@
 #E-Pod: A URL based music player#
-![E-Pod](epod.PNG)
+![E-Pod](OnlineMusicPlayer/epod.PNG)
 
 #Features#
 ##* Add music to playlist using only direct .mp3/.m4a links (no need to actually download them)*##mu
