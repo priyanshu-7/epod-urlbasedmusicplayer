@@ -4,7 +4,7 @@
 # Features
 * Add music to playlist using only direct .mp3/.m4a links (no need to actually download them).
 * Music is auto saved upon closing the app. 
-* Delete music feature .
+* Delete music feature.
 * Auto-sync list on different desktops.
 
 # Installation
