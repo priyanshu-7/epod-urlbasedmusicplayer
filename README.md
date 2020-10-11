@@ -1,4 +1,4 @@
-#E-Pod: A URL based music player#
+#E-Pod: A URL based music player
 ![E-Pod](OnlineMusicPlayer/epod.PNG)
 
 #Features#
